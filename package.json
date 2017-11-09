@@ -1,0 +1,14 @@
+{
+  "name": "jest-custom-context",
+  "version": "21.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SkyNET69/jest-custom-context.git"
+  },
+  "license": "MIT",
+  "main": "build/index.js",
+  "dependencies": {
+    "jest-mock": "^21.2.0",
+    "jest-util": "^21.2.1"
+  }
+}
