@@ -1,14 +1,21 @@
 {
   "name": "jest-custom-context",
-  "version": "21.2.1",
+  "version": "0.0.1",
+  "description": "Set specific context for module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git@github.com:SkyNET69/jest-custom-context.git"
+    "url": "git+https://github.com/SkyNET69/jest-custom-context.git"
   },
+  "author": "Oleksandr Borysov <olexsbas@gmail.com>",
   "license": "MIT",
-  "main": "build/index.js",
-  "dependencies": {
-    "jest-mock": "^21.2.0",
-    "jest-util": "^21.2.1"
-  }
+  "bugs": {
+    "url": "https://github.com/SkyNET69/jest-custom-context/issues"
+  },
+  "homepage": "https://github.com/SkyNET69/jest-custom-context#readme"
 }
